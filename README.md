@@ -94,7 +94,6 @@ Incluye el contenido del primer y segundo entregables mejorado, añadiendo:
 ## Revisiones y defensa del proyecto
 
 - Los entregables 1 y 2 serán revisados por el tutor del proyecto.
-- Se informará a los alumnos de la revisión en la clase de laboratorio siguiente a la entrega.
 - El grupo completo debe asistir a la revisión de entregables (salvo causa debidamente justificada).
 - El entregable 3 deberá ser defendido por el grupo frente a las preguntas del tutor, quien podrá realizar cuestiones de manera individual para determinar la autoría y calificación.
 
